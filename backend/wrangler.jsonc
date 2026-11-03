@@ -56,7 +56,7 @@
     "MAX_PASOS": "8",
     // Qué motor corre el bucle: "propio" (src/agente/bucle.ts) o "adk" (Google ADK, src/agente/motor-adk.ts).
     "MOTOR": "propio"
-  }
+  },
 
   // ── Clase 8: el disparador. Descomentar (y agregar una coma al final del bloque "vars") para que el agente
   //    corra solo todos los días a las 09:30 de Chile (12:30 UTC).
